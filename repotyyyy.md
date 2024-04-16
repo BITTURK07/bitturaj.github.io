@@ -28,3 +28,4 @@
 14. Click OK or Apply to generate beam reinforcement.
 
 15. Click Cancel to exit the dialog box.
+https://github.com/BITTURK07/bitturaj.github.io/blob/main/FLOOR%20PLAN.png
